@@ -9,6 +9,7 @@
     'summary': """
         Odoo School
         Lesson 6-1: Master and demo data.
+	This is my changes!!!
     """,
     'license': 'LGPL-3',
     'author': 'Garazd Creation',
